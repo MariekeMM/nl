@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Marieke Portfolio 2017",
-    "currentPage": "about.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -36,7 +36,7 @@
       "settings": {
         "main": true,
         "title": "",
-        "meta_descr": "",
+        "meta_descr": "Marieke; Marteaux; index; homepage; startpagina;",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -193,7 +193,7 @@
     "graphicdesign.html": {
       "settings": {
         "title": "Graphic Design",
-        "meta_descr": "Graphic Design",
+        "meta_descr": "Graphic Design; grafisch ontwerp; opdrachten; minima docta; 019; ghent art book fair;",
         "order": 2
       },
       "components": [
@@ -899,7 +899,7 @@
     "about.html": {
       "settings": {
         "title": "About",
-        "meta_descr": "Photography",
+        "meta_descr": "About; Over mij; contact; info;",
         "order": 4
       },
       "components": [
@@ -1066,7 +1066,7 @@
     "photography.html": {
       "settings": {
         "title": "Photography",
-        "meta_descr": "Photography",
+        "meta_descr": "Photography; fotografie; analogue; analoog;",
         "order": 3
       },
       "components": [
